@@ -1,22 +1,24 @@
 {
-  "name": "omxcontrol",
-  "version": "0.0.1",
-  "description": "Nodejs module to control omxplayer. Specifically written for the raspberry pi",
+  "name": "simpleomxcontrol",
+  "version": "1.0.1",
+  "description": "nodejs wrapper for omxplayer on the raspberry pi, based on omxcontrol by rikkertkoppes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rikkertkoppes/omxcontrol.git"
+    "url": "git+https://github.com/dplesca/simpleomxcontrol.git"
   },
   "keywords": [
-    "Raspberry",
-    "pi",
-    "omxplayer",
-    "express",
-    "middleware"
+    "raspberry",
+    "raspberry pi",
+    "omxplayer"
   ],
-  "author": "rikkert@rikkertkoppes.com",
-  "license": "BSD"
+  "author": "Dragos Plesca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dplesca/simpleomxcontrol/issues"
+  },
+  "homepage": "https://github.com/dplesca/simpleomxcontrol#readme"
 }
