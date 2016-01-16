@@ -12,7 +12,7 @@ Requirements
 Install
 -------
 
-    npm install omxcontrol
+    npm install simpleomxcontrol
 
 Usage
 -----

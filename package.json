@@ -1,6 +1,6 @@
 {
   "name": "simpleomxcontrol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nodejs wrapper for omxplayer on the raspberry pi, based on omxcontrol by rikkertkoppes",
   "main": "index.js",
   "scripts": {
