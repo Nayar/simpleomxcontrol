@@ -18,18 +18,19 @@ Usage
 -----
 
 Basic usage
-    
-    omx = require('omxcontrol');
 
-    omx.start(filename);
+```js    
+omx = require('omxcontrol');
 
-    omx.pause();
+omx.start(filename);
 
-    omx.forward();
+omx.pause();
 
-    omx.backward();
+omx.forward();
 
-    omx.subs();
+omx.backward();
 
-    omx.quit();
+omx.subs();
 
+omx.quit();
+```
