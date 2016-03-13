@@ -48,5 +48,7 @@ omx.mapKey('play','.');
 omx.mapKey('forward',"\x5b\x43");
 omx.mapKey('backward',"\x5b\x44");
 omx.mapKey('subs', 'm');
+omx.mapKey('louder', '+');
+omx.mapKey('softer', '-');
 
 module.exports = omx;
